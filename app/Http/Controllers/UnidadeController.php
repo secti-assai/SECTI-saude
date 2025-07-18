@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Unidade;
 use Illuminate\Http\Request;
 
 class UnidadeController extends Controller
